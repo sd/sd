@@ -4,7 +4,7 @@ I've been coding for fun and money for more than 30 years.
 
 Ruby is my favorite language, and 2 spaces is the only right way to indent code.
 
-You can find me on Twitter as [@sd](https://twitter.com/sd).
+You can find me on Mastodon as [@sd@masto.notso.net][https://masto.notso.net/@sd] and on Twitter as [@sd](https://twitter.com/sd).
 
 <!--
 **sd/sd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
